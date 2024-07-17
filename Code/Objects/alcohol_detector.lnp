@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\gas.obj" 
+TO ".\Objects\alcohol_detector" 
+PRINT(".\Listings\alcohol_detector.m51") RAMSIZE(256) 

@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\gas.obj" 
+TO ".\Objects\Final" 
+PRINT(".\Listings\Final.m51") RAMSIZE(256) 
