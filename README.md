@@ -12,6 +12,7 @@ This project implements an alcohol detector using the 8051 microcontroller. The 
 - [Installation]
 - [Usage]
 - [Contributing]
+- [License]
 
 ## Introduction
 
@@ -79,5 +80,8 @@ If alcohol is detected above the threshold, the buzzer will sound an alert.
 
 Contributions are welcome! Please fork this repository and submit pull requests with improvements and bug fixes.
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Thank You! ##
