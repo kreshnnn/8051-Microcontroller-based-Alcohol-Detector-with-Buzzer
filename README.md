@@ -61,23 +61,24 @@ void main(void) {
 
 ## How it Works
 
-// 1. Alcohol Detection: The MQ-3 alcohol sensor detects the presence of alcohol in the air.
-// 2. Signal Processing: The sensor output is connected to the 8051 microcontroller.
-// 3. Alert Mechanism: When the alcohol concentration exceeds a certain threshold, the microcontroller activates the buzzer.
+1. Alcohol Detection: The MQ-3 alcohol sensor detects the presence of alcohol in the air.
+2. Signal Processing: The sensor output is connected to the 8051 microcontroller.
+3. Alert Mechanism: When the alcohol concentration exceeds a certain threshold, the microcontroller activates the buzzer.
 
 ## Installation
 
-// 1. Hardware Setup: Connect the components as per the circuit diagram.
-// 2. Software Setup: Load the provided code into the 8051 microcontroller using an appropriate programmer.
+1. Hardware Setup: Connect the components as per the circuit diagram.
+2. Software Setup: Load the provided code into the 8051 microcontroller using an appropriate programmer.
 
 ## Usage
 
-// Once the setup is complete, power on the system. 
-// The alcohol detector will start monitoring the air for alcohol concentration. 
-// If alcohol is detected above the threshold, the buzzer will sound an alert.
+Once the setup is complete, power on the system. 
+The alcohol detector will start monitoring the air for alcohol concentration. 
+If alcohol is detected above the threshold, the buzzer will sound an alert.
 
 ## Contributions
 
-// Contributions are welcome! Please fork this repository and submit pull requests with improvements and bug fixes.
+Contributions are welcome! Please fork this repository and submit pull requests with improvements and bug fixes.
 
-## THANKYOU ##
+
+## Thank You! ##
