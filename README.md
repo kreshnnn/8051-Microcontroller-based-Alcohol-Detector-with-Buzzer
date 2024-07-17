@@ -28,7 +28,7 @@ The 8051 Microcontroller-based Alcohol Detector with Buzzer is designed to detec
 - Connecting wires
 - Power supply
 
-## Code
+## Code for Interfacing
 
 ```
 // The code for the 8051 microcontroller is written in C.
