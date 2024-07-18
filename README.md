@@ -4,6 +4,7 @@ This project implements an alcohol detector using the 8051 microcontroller. The 
 
 ## Table of Contents
 
+- [Aim]
 - [Introduction]
 - [Components]
 - [Circuit Diagram]
@@ -12,7 +13,12 @@ This project implements an alcohol detector using the 8051 microcontroller. The 
 - [Installation]
 - [Usage]
 - [Contributing]
+- [Bill of Materials]
 - [License]
+
+## Aim
+
+To monitor alcohol levels and provide an indication using a buzzer and an LCD interface.
 
 ## Introduction
 
@@ -79,6 +85,10 @@ If alcohol is detected above the threshold, the buzzer will sound an alert.
 ## Contributions
 
 Contributions are welcome! Please fork this repository and submit pull requests with improvements and bug fixes.
+
+## Bill of Materials
+
+The bill of materials for this project includes all the components listed above, with an estimated cost of ₹2500-₹3000.
 
 ## License
 
