@@ -4,8 +4,8 @@ This project implements an alcohol detector using the 8051 microcontroller. The 
 
 ## Table of Contents
 
-1. [Aim]
-2. [Introduction]
+1. [Aim](#aim)
+2. [Introduction](#introduction)
 3. [Components]
 4. [Circuit Diagram]
 5. [Code]
@@ -83,9 +83,32 @@ void main(void) {
 
 ## Usage
 
-Once the setup is complete, power on the system. 
-The alcohol detector will start monitoring the air for alcohol concentration. 
-If alcohol is detected above the threshold, the buzzer will sound an alert.
+- Once the setup is complete, power on the system. 
+- The alcohol detector will start monitoring the air for alcohol concentration. 
+- If alcohol is detected above the threshold, the buzzer will sound an alert.
+
+## Applications
+
+- Used for detecting alcohol levels in a person's breath for safety purposes.
+- Can be integrated into vehicles or workplaces to monitor alcohol consumption.
+- Useful in law enforcement for checking DUI (Driving Under the Influence) levels.
+
+## Advantages
+
+- Provides a quick and easy method to detect alcohol levels.
+- Compact design and easy to integrate with other systems like car ignition or workplace safety protocols.
+- Uses a simple microcontroller (8051), making it cost-effective and energy-efficient.
+
+## Limitations
+
+- Limited detection range and may not be as accurate as professional alcohol testing devices.
+- Requires regular calibration to ensure accuracy.
+- Dependent on environmental factors, such as temperature and humidity, which could affect sensor performance.
+
+## Future Scope
+Integration with smartphones or mobile apps for real-time monitoring and notifications.
+Enhancing accuracy by using more advanced sensors or adding multi-sensor capabilities.
+Expansion of the system to include additional safety features like automatic vehicle shutdown when alcohol is detected.
 
 ## Bill of Materials
 
