@@ -4,17 +4,17 @@ This project implements an alcohol detector using the 8051 microcontroller. The 
 
 ## Table of Contents
 
-- [Aim]
-- [Introduction]
-- [Components]
-- [Circuit Diagram]
-- [Code]
-- [How it Works]
-- [Installation]
-- [Usage]
-- [Contributing]
-- [Bill of Materials]
-- [License]
+- Aim
+- Introduction
+- Components
+- Circuit Diagram
+- Code
+- How it Works
+- Installation
+- Usage
+- Contributing
+- Bill of Materials
+- License
 
 ## Aim
 
